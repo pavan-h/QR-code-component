@@ -28,23 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Styled Components](https://styled-components.com/) - For styles
 
 
-### What I learned
 
-
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 ## Author
 
